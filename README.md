@@ -14,10 +14,10 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **C, C++, Java**
+- 🌱 I’m currently learning *C, C++, Java*
 - 👯 I’m looking to collaborate on [Detection Weather Email is Phishing or Not](https://github.com/hppy7/hppy-7.git)
-- 📫 How to reach me: **happysohil1234@gmail.com**
-- ⚡ Fun fact: **A smile is a powerful tool to overcome the problems of life, so be happy!**
+- 📫 How to reach me: *happysohil1234@gmail.com*
+- ⚡ Fun fact: *A smile is a powerful tool to overcome the problems of life, so be happy!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,4 +53,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hppy7&show_icons=true&locale=en" alt="hppy7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hppy7&" alt="hppy7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hppy7&" alt="hppy7" /></p> 
+<img align="right" alt="coding" width="100%" src="https://cdn-ilbndhj.nitrocdn.com/PWZHubCmElPjVCuBboIKwttcXvQILvxf/assets/images/optimized/rev-4b904cc/www.keyfactor.com/wp-content/uploads/iStock-1256603011.jpg">
