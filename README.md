@@ -1,5 +1,4 @@
-![logl](https://github.com/hppy7/hppy7/commit/ab38412ed86c9a03fc3201893f1d27189c6c1aa2)
-
+![Banner](https://raw.githubusercontent.com/hppy7/hppy7/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sundhir Singh</h1>
 <h3 align="center">B.Tech Student from India</h3>
 
