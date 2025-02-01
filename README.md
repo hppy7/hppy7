@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/hppy7/hppy7/main/GitHub banner.png)
+![Logo](https://github.com/hppy7/hppy7/blob/main/Github%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sundhir Singh</h1>
 <h3 align="center">B.Tech Student from India</h3>
 
