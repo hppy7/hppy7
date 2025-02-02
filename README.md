@@ -1,4 +1,4 @@
-![Logo](https://github.com/hppy7/hppy7/blob/main/WhatsApp%20Image%202025-02-02%20at%2022.13.22_1e6e086b.jpg)
+![Logo](https://github.com/hppy7/hppy7/blob/main/WhatsApp%20Image%202025-02-02%20at%2022.33.01_b0216ee6.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Sundhir Singh</h1>
 <h3 align="center">B.Tech Student from India</h3>
 
