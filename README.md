@@ -21,11 +21,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/hppy7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
   <a href="https://instagram.com/happy_tha_kur1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="happy_tha_kur1" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/sundhirsingh/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
   <a href="https://youtube.com/@nothing.12357" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/6005905237" target="blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-6005905237-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" height="30" width="120" />
   </a>
 </p>
 
@@ -54,5 +63,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hppy7&show_icons=true&locale=en" alt="hppy7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hppy7&" alt="hppy7" /></p> 
+
 <img align="right" alt="coding" width="100%" height="350" src="https://cdn-ilbndhj.nitrocdn.com/PWZHubCmElPjVCuBboIKwttcXvQILvxf/assets/images/optimized/rev-4b904cc/www.keyfactor.com/wp-content/uploads/iStock-1256603011.jpg">
 <h1 align="center">  LET,S  START  HAPPY  JI  👋  </h1>
