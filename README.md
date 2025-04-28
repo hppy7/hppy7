@@ -21,11 +21,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/hppy7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
   <a href="https://instagram.com/happy_tha_kur1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="happy_tha_kur1" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/sundhirsingh/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
   <a href="https://youtube.com/@nothing.12357" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/6005905237" target="blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-6005905237-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" height="30" width="120" />
   </a>
   <a href="https://leetcode.com/u/Sundhir01/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-6005905237-green?style=for-the-badge&logo=leetcode" alt="LeetCode" height="30" width="120" />
