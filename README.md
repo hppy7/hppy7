@@ -37,7 +37,7 @@
     <img align="center" src="https://img.shields.io/badge/WhatsApp-6005905237-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" height="30" width="120" />
   </a>
   <a href="https://leetcode.com/u/Sundhir01/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-6005905237-green?style=for-the-badge&logo=leetcode" alt="LeetCode" height="30" width="120" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode--green?style=for-the-badge&logo=leetcode" alt="LeetCode" height="30" width="120" />
   </a>
 </p>
 
