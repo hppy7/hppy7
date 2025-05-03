@@ -15,9 +15,11 @@
 </p>
 
 - 🌱 I’m currently learning *C, C++, Java*
-- 👯 I’m looking to collaborate on [Detection Weather Email is Phishing or Not](https://github.com/hppy7/hppy-7.git)
+- 👯 I’m looking to collaborate on [Detecting Whether an Email is Phishing or Not](https://github.com/hppy7/hppy-7.git)
 - 📫 How to reach me: *happysohil1234@gmail.com*
 - ⚡ Fun fact: *A smile is a powerful tool to overcome the problems of life, so be happy!*
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +27,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://instagram.com/happy_tha_kur1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="happy_tha_kur1" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/sundhirsingh/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
@@ -41,7 +43,7 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -59,18 +61,40 @@
   </a> 
 </p>
 
-<!-- LeetCode streak card below tools -->
-<br>
-<img src="https://leetcard.jacoblin.cool/Sundhir01?theme=light&ext=heatmap" alt="LeetCode Streak" />
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hppy7&show_icons=true&locale=en&layout=compact" alt="hppy7" />
+### 🧠 LeetCode Stats
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Sundhir01?ext=activity" alt="LeetCode Stats" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hppy7&show_icons=true&locale=en" alt="hppy7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hppy7&" alt="hppy7" /></p> 
+### 📊 GitHub Stats
 
-<img align="right" alt="coding" width="100%" height="350" src="https://static.vecteezy.com/system/resources/thumbnails/035/096/897/small_2x/hand-shake-silhouette-2-vector.jpg">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hppy7&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hppy7&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">LET'S START HAPPY JI 👋</h1>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hppy7&theme=radical&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ Quote
+> *“Learning never exhausts the mind.” – Leonardo da Vinci*
+
+---
+
+<img align="center" alt="handshake" width="100%" height="300" src="https://static.vecteezy.com/system/resources/thumbnails/035/096/897/small_2x/hand-shake-silhouette-2-vector.jpg">
+
+<h1 align="center">LET'S GET STARTED, HAPPY JI 👋</h1>
