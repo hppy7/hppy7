@@ -41,6 +41,10 @@
   </a>
 </p>
 
+<!-- LeetCode streak card -->
+<br>
+<img src="https://leetcard.jacoblin.cool/Sundhir01?theme=light&ext=heatmap" alt="LeetCode Streak" />
+
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -68,4 +72,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hppy7&" alt="hppy7" /></p> 
 
 <img align="right" alt="coding" width="100%" height="350" src="https://static.vecteezy.com/system/resources/thumbnails/035/096/897/small_2x/hand-shake-silhouette-2-vector.jpg">
-<h1 align="center">  LET,S  START  HAPPY  JI  👋  </h1>
+
+<h1 align="center">LET'S START HAPPY JI 👋</h1>
