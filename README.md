@@ -67,5 +67,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hppy7&" alt="hppy7" /></p> 
 
-<img align="right" alt="coding" width="100%" height="350" src="https://cdn-ilbndhj.nitrocdn.com/PWZHubCmElPjVCuBboIKwttcXvQILvxf/assets/images/optimized/rev-4b904cc/www.keyfactor.com/wp-content/uploads/iStock-1256603011.jpg">
+<img align="right" alt="coding" width="100%" height="350" src="https://static.vecteezy.com/system/resources/thumbnails/035/096/897/small_2x/hand-shake-silhouette-2-vector.jpg">
 <h1 align="center">  LET,S  START  HAPPY  JI  👋  </h1>
