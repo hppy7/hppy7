@@ -41,10 +41,6 @@
   </a>
 </p>
 
-<!-- LeetCode streak card -->
-<br>
-<img src="https://leetcard.jacoblin.cool/Sundhir01?theme=light&ext=heatmap" alt="LeetCode Streak" />
-
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -62,6 +58,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   </a> 
 </p>
+
+<!-- LeetCode streak card below tools -->
+<br>
+<img src="https://leetcard.jacoblin.cool/Sundhir01?theme=light&ext=heatmap" alt="LeetCode Streak" />
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hppy7&show_icons=true&locale=en&layout=compact" alt="hppy7" />
