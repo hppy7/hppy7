@@ -74,6 +74,12 @@
 
 ---
 
+### 🕒 Daily LeetCode Solve Time
+
+_Last updated: **<!--START_LEETCODE_TIME-->Not solved yet<!--END_LEETCODE_TIME-->**_
+
+---
+
 ### 📊 GitHub Stats
 
 <table>
