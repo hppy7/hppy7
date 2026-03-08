@@ -77,7 +77,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 Current LeetCode Stats
 ![LeetCode](https://leetcard.jacoblin.cool/Sundhir01?theme=dark&border=0&radius=10)
 
 ---
